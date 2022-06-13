@@ -7,3 +7,6 @@
 [submodule "7574-TP2"]
 	path = 7574-TP2
 	url = git@github.com:CrossNox/7574-TP2.git
+[submodule "7574-TP3"]
+	path = 7574-TP3
+	url = git@github.com:CrossNox/7574-TP3.git
